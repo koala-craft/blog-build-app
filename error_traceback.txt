@@ -1,0 +1,2 @@
+Status: 200
+Body: {"status":"success","message":"作成しました","data":{"id":"6d40c0b4-3c17-42ea-a94f-abc4206df0f7","trait_name":"Test Trait Final 12","trait_description":"Description 12","is_active":true,"priority_order":0,"created_at":"2026-03-24T18:07:02.562976Z","updated_at":"2026-03-24T18:07:02.563482Z"}}

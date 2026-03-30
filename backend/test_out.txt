@@ -1,0 +1,28 @@
+----- STARTING EXTRACT TEST -----
+DEBUG LLM RAW OUTPUT: {
+  "items": [
+    {
+      "category": "mindfulness",
+      "data": {
+        "philosophy_concept": "感情をノートに書き出すことで内観し、問題を客観視するという心を整えるメソッド",
+        "encouragement_text": "まずはノートに感情を書き出してみよう"
+      }
+    },
+    {
+      "category": "reframing",
+      "data": {
+        "negative_state": "失敗すること",
+        "positive_perspective": "それは成功の基盤であり、必要なプロセスである"
+      }
+    },
+    {
+      "category": "action",
+      "data": {
+        "situation": "失敗した、あるいは悩んでいる状態",
+        "small_step_proposal": "ノートを開き、自分の感情を書き出してみる"
+      }
+    }
+  ]
+}
+----- END RESULT -----
+[{'category': 'mindfulness', 'data': {'philosophy_concept': '感情をノートに書き出すことで内観し、問題を客観視するという心を整えるメソッド', 'encouragement_text': 'まずはノートに感情を書き出してみよう'}}, {'category': 'reframing', 'data': {'negative_state': '失敗すること', 'positive_perspective': 'それは成功の基盤であり、必要なプロセスである'}}, {'category': 'action', 'data': {'situation': '失敗した、あるいは悩んでいる状態', 'small_step_proposal': 'ノートを開き、自分の感情を書き出してみる'}}]
